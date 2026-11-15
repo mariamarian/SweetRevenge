@@ -6,13 +6,43 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: ce1cd6bf10753034287f1c11c891a185
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
     path: Assets/Scenes/dark.unity
     guid: 8685015a9708a8c49be0e7e571cc09de
   - enabled: 1
+    path: Assets/Scenes/dark_finish.unity
+    guid: 69735e3e276e2db408c401bd19dbaf25
+  - enabled: 1
     path: Assets/Scenes/kingdoms2.unity
     guid: 6978296c89ac73f429e3e17ee696d200
+  - enabled: 1
+    path: Assets/Scenes/creation.unity
+    guid: 9f4b520dfe292c04c83fa5018a5f82ab
+  - enabled: 1
+    path: Assets/Scenes/creation_finish1.unity
+    guid: f1e23e637290f64488d101ab12a65ba3
+  - enabled: 1
+    path: Assets/Scenes/kingdoms3.unity
+    guid: 7654b08f0760c6f42a26c98f35e75a41
+  - enabled: 1
+    path: Assets/Scenes/mind1.unity
+    guid: 6140e62a8dddc0445b615d386b480894
+  - enabled: 1
+    path: Assets/Scenes/mind2.unity
+    guid: 71f4ea886704cd04f8fd63bba4eb5ea4
+  - enabled: 1
+    path: Assets/Scenes/mind3.unity
+    guid: ca9ff6a45c141d242989eb0336ee2636
+  - enabled: 1
+    path: Assets/Scenes/gameover.unity
+    guid: eb741aa31dd5f6f47afbddacfe80b2d6
+  - enabled: 1
+    path: Assets/Scenes/final.unity
+    guid: a436d50306b0d7b419a13e97e67400f1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
