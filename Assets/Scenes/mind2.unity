@@ -345,7 +345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 242110584eb5ce843a28895cae0f5c3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneLoader
-  sceneName: final
+  sceneName: gameover
 --- !u!61 &488882482
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1167,7 +1167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 242110584eb5ce843a28895cae0f5c3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SceneLoader
-  sceneName: gameover
+  sceneName: final
 --- !u!61 &2083922655
 BoxCollider2D:
   m_ObjectHideFlags: 0
